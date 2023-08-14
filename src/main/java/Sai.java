@@ -1,7 +1,9 @@
 public class Sai {
     public static void main(String[] args) {
         System.out.println("Saikiran Reddy");
-        System.out.println("nari");
+        System.out.println("Nari");
+        System.out.println("Laxma");
+        System.out.println("Likith");
         System.out.println("gannu");
     }
 }
